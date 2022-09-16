@@ -1,0 +1,35 @@
+*{
+    box-sizing: border-box;
+}
+.bgclr{
+    background-color: rgb(194, 194, 194);
+}
+.jumbotron{
+    background-color:#E9ECEF;
+    border: 1px solid rgb(245, 245, 245);
+    border-radius: 10px;
+}
+
+.footer-logo{
+    font-size: 25px;
+}
+.adres{
+    font-size: 14px;
+}
+
+.btn{
+    background-color: rgb(82, 82, 247);
+    color: whitesmoke;
+    border-radius: 5px;
+}
+
+.card-img-top{
+    width:250px;
+    height: 80%;
+    object-fit:fill;
+
+}
+.card{
+    width: 300px;
+    margin: 10px;
+}
