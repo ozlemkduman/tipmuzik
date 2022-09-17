@@ -9,7 +9,15 @@
     border: 1px solid rgb(245, 245, 245);
     border-radius: 10px;
 }
-
+.footer{
+    height: 100px;
+}
+@media (min-width: 780px) {
+    .footer {
+      height: 60px;
+    }
+  }
+ 
 .footer-logo{
     font-size: 25px;
 }
