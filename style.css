@@ -9,6 +9,9 @@
     border: 1px solid rgb(245, 245, 245);
     border-radius: 10px;
 }
+.nav-link:hover{
+    color: blue;
+}
 .footer{
     height: 100px;
 }
@@ -37,10 +40,19 @@
     object-fit:fill;
 
 }
+.card-body{
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-end;
+}
 .card{
     width: 300px;
+    height: 500px;
     margin: 10px;
 }
 .navbar-toggler{
     background-color: #E9ECEF;
 }
+
